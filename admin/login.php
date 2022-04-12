@@ -5,6 +5,7 @@
 <body class="hold-transition login-page">
   <script>
     start_loader()
+    redirect('admin/login.php');
   </script>
 <div class="login-box">
       <div>

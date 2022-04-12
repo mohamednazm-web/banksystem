@@ -1,3 +1,3 @@
 <?php 
-redirect('admin/login.php');
+redirect('admin/index.php');
 ?>
